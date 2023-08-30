@@ -4,7 +4,7 @@
 </p>
 
 
-[![Fasaan Badge](https://img.shields.io/badge/Project-Fasaan-orange?style=for-the-badge&logo=github)](https://github.com/hariketsheth/Fasaan)
+[![Fasaan Badge](https://img.shields.io/badge/Project-Fasaan-orange?style=for-the-badge&logo=github)](https://github.com/DrGrenkenstien/FASAAN)
 
 ### :sparkles:About Fasaan
 Agriculture is very significant in India's economy and jobs. Farmers' most prevalent problem is that they are unable to make informed decisions on which crops are supported in their areas, as well as market and profit prices. As a result, they have lower productivity and profit margins. The goal of this study is to propose an attempt to estimate agricultural output and price using machine learning, which will aid in crop selection based on soil type and meteorological conditions.
